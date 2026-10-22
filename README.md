@@ -1,9 +1,5 @@
 # Open in Linear
 
-open up tasks in linear with a keyboard shortcut
-
-### How to use it
-
 highlight some text (like `ENG-123`) and press `CONTROL+OPTION+COMMAND+L` to open up linear 
 
 <picture>
