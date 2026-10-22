@@ -1,8 +1,8 @@
 # Open in Linear
 
-Quickly open up tasks in linear with a keyboard shortcut
+open up tasks in linear with a keyboard shortcut
 
-### How it works
+### How to use it
 
 highlight some text (like `ENG-123`) and press `CONTROL+OPTION+COMMAND+L` to open up linear 
 
@@ -21,6 +21,6 @@ cd open-in-linear
 ./install.sh
 ```
 
-It asks for your Linear workspace and lets you keep the default shortcut or pick your own. Run it again to change either one. 
+you will be asked to provide your Linear workspace slug and can use the default shortcut or pick your own. Run it again to change either one. 
 
 To remove it, run `./uninstall.sh`.
